@@ -1,2 +1,4 @@
 # SJTU-EE217
-Hardware Description Language and System Simulation in SJTU
+Code for curriculum EE217 of SJTU Dept. EE  
+
+## Final Score -- 40/40 
